@@ -1,0 +1,10 @@
+/* TEAM */
+  Developer: Ayush Naik
+  Site: ayushnaik.dev
+  GitHub: @AyushNaik7
+  Location: Mumbai, India
+
+/* SITE */
+  Built by hand, no template.
+  Stack: Next.js, React, TypeScript, Tailwind CSS, React Three Fiber, GSAP, Lenis
+  Standards: responsive, keyboard-accessible, reduced-motion aware
