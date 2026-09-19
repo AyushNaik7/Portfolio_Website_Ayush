@@ -27,7 +27,7 @@ export default function AppleIcon() {
             color: "#ede8dc",
           }}
         >
-          SP
+          AN
         </div>
         <div
           style={{
